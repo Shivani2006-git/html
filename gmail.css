@@ -1,0 +1,29 @@
+
+div{
+    border-color: #d3d3d3;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    padding: 20px;
+    background-color: aliceblue;
+    
+}
+.two{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 150px;
+}
+a{
+    margin-top: 30px;
+
+}
+button{
+    background-color: blue;
+    color: wheat;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
