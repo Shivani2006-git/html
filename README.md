@@ -23,4 +23,7 @@ style>
        border-style: solid;
 }
 /style>
-
+*diplay block take full line
+*display inline take what needed
+*in inlie-block takes the width and hight
+*li:hover for change colour
